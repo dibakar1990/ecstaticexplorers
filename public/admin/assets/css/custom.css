@@ -1,0 +1,224 @@
+.default-radio {
+	margin-left: 20px;
+	cursor: pointer;
+}
+.deafult-label {
+	font-family: initial;
+	font-size: initial;
+	margin-top: 2px;
+	cursor: pointer;
+}
+.invalid-feedback {
+	display: block !important;
+}
+.add-button {
+	margin-left: 684px;
+}
+.gapping {
+	margin-top: 10px;
+	margin-bottom: 10px;
+	margin-left: 10px;
+	margin-right: 10px;
+	text-align: center;
+}
+.dropdown-menu {
+	min-width: 7rem !important;
+}
+.no-image-preview {
+	height: 150px;
+	width: 150px;
+}
+.setting-menu-title {
+	font-size: 16px;
+}
+
+.setting-nav-sidebar .active>a, .setting-nav-sidebar a:active, .setting-nav-sidebar a:focus, .setting-nav-sidebar a:hover {
+	color: #008cff !important;
+    text-decoration: none;
+    background: rgb(13 110 253 / .12);
+}
+.nav-link {
+	color: #5f5f5f;
+}
+
+  .nav-item>a:hover {
+	color: #008cff !important;
+	text-decoration: none;
+    background: rgb(13 110 253 / .12);
+}
+
+/*code to change background color*/
+.navbar-nav>.active>a {
+	color: #008cff !important;
+	text-decoration: none;
+    background: rgb(13 110 253 / .12);
+}
+
+.dot {
+	height: 25px;
+	width: 25px;
+	border-radius: 50%;
+	display: inline-block;
+  }
+  .img-flag {
+	height: 30px;
+	
+  }
+  .add_field_button {
+	float: right;
+  }
+  .add-more-field {
+	margin-top: 5px;
+  }
+.w3-animate-right {
+	margin-top: 10px;
+}
+.w3-animate-zoom {
+	margin-top: 10px;
+}
+.error-code {
+	margin-top: 10px;
+}
+.form-button button {
+    margin-bottom: 30px;
+    float: right;
+}
+.check-all{
+    margin-right: 1.5rem !important;
+    margin-top: .5rem !important;
+}
+.group-form-switch .group-checkbox{
+    float: none !important;
+    margin-left: 3px !important;
+    margin-top: 3px;
+}
+.form-check-input{
+    cursor: pointer;
+}
+
+.permission-group{
+    margin-left: 22px;
+}
+.group-form-switch .group-checkbox{
+    float: none !important;
+    margin-left: 3px !important;
+    margin-top: 3px;
+}
+.group-title{
+    margin-left: -72px;
+}
+
+.form-check-success .form-check-input:checked {
+    background-color: #15ca20 !important;
+    border-color: #15ca20 !important;
+}
+
+.form-check-danger .form-check-input:checked {
+    background-color: #fd3550 !important;
+    border-color: #fd3550 !important;
+}
+.changeStatus {
+	width: 56px !important;
+	height: 24px !important;
+}
+
+.header-notifications-list {
+	overflow-y: auto;
+}
+
+.modal{
+    z-index: 100000 !important;
+}
+
+.select2-container--open {
+    z-index: 9999999 !important;
+}
+
+
+/* .ticket-card-body{
+	line-height: 2.7rem !important;
+}
+@media (min-width: 1200px) {
+    .ticket-card-box>* {
+        flex: 0 0 auto !important;
+        width: 20% !important;
+    }
+} */
+
+.flex-grow-notification {
+	padding-left: 52px;
+}
+
+.logo-icon-sidebar {
+	width: 40px !important;
+}
+
+.col-md-12.required .form-label:after{
+    color: red;
+    content: "*";
+    position: absolute;
+ }
+
+ .col-md-6.required .form-label:after{
+    color: red;
+    content: "*";
+    position: absolute;
+ }
+ .col-md-4.required .form-label:after{
+    color: red;
+    content: "*";
+    position: absolute;
+ }
+ .col-md-3.required .form-label:after{
+    color: red;
+    content: "*";
+    position: absolute;
+ }
+ .filter-status{
+    margin-left: -78px;
+ }
+ .filter-search{
+    margin-left: -78px;
+ }
+ .input-field-wrap{
+    margin-bottom: 10px;
+ }
+ .input-field-wrap-do{
+    margin-bottom: 10px;
+ }
+ .input-field-wrap-dont{
+    margin-bottom: 10px;
+ }
+
+ .input-field-wrap-itinerary{
+    margin-bottom: 10px;
+ }
+ .input-field-wrap-hotel{
+    margin-bottom: 10px;
+ }
+ .mb-1 {
+    width: max-content !important;
+ }
+ .me-3 {
+    font-size: 28px !important;
+ }
+ .swal-overlay {
+    z-index: 100000000000 !important;
+}
+
+.swal2-container {
+    z-index: 100000000000 !important;
+  }
+
+  .swal2-cancel {
+    margin-left: 10px !important;
+    z-index: 100000000000 !important;
+  }
+
+  .add-hotel-field-button {
+    margin-top: -30px;
+  }
+
+  .itineary-hotel{
+    margin-top: 20px;
+  }

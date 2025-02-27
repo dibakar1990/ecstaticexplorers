@@ -1,0 +1,12 @@
+1. smtp credential for mail send
+--------------------------------------
+2. Youtube data api
+  apykey
+  youtube channel id
+
+-----------------------------------
+
+3. instagram feed
+   instagram username
+
+-------------------------------------------
